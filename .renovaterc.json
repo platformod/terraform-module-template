@@ -1,5 +1,5 @@
 {
-  "extends": ["config:best-practices", ":helpers:pinGitHubActionDigests"],
+  "extends": ["config:best-practices", "helpers:pinGitHubActionDigests"],
   "labels": ["dependencies", "renovatebot"],
   "packageRules": [
     {
